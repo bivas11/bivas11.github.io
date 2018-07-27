@@ -1,0 +1,21 @@
+*{margin:0;padding:0}
+img{width:100%;max-width:100%}
+.main_container{width:1170px;margin:0 auto;overflow:hidden;}
+header#main_header{}
+.logo{float:left;width:400px;padding:8px}
+.adv{float:right;width:400px;padding:8px}
+.adv img{height:90px}
+.logo img{height:120px;}
+.logo_adv{overflow:hidden}
+.main_manu{padding:0}
+.main_manu ul{list-style:none;}
+.main_manu ul li{float:left;}
+.main_manu ul li a{padding:10px;color:white;text-decoration:none;font-weight:bold;}
+.main_manu ul a:hover{background:#4e578c}
+nav{background:#282d4a;margin:10px;padding:10px}
+.copyright{background:black;color:white;text-align:center;font-size:14px;padding:15px;}
+#footer{background::#282d4a;color:black;}
+.footer_blocks{padding:20px 0px;}
+.fblock{}
+.br{padding:20px 20px;color:red;background:black;overflow:hidden;}
+.{}
